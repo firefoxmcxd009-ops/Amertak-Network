@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+  
   <url>
     <loc>https://amertak.vercel.app/</loc>
   </url>
-
+  
   <url>
     <loc>https://amertak.vercel.app/store</loc>
   </url>
-
+  
   <url>
     <loc>https://amertak.vercel.app/players</loc>
   </url>
-
+  
   <url>
-    <loc>https://amertak.vercel.app/topKills</loc>
+    <loc>https://amertak.vercel.app/topkills</loc>
   </url>
-
+  
   <url>
     <loc>https://amertak.vercel.app/topdeaths</loc>
   </url>
-
+  
 </urlset>
