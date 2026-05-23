@@ -1,4 +1,4 @@
-const SERVER_IP = "mazerclub.net"; 
+const SERVER_IP = "treemc.mcpc.ink"; 
 const STATUS_API = `https://api.mcstatus.io/v2/status/java/${SERVER_IP}`;
 const PLAYER_API = `http://${SERVER_IP}:62153/v1/players`;
 const HISTORY_KEY = "foxmc_terminal_history";
