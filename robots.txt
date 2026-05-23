@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amertak.vercel.app/sitemap.xml
