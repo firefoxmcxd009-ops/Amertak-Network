@@ -1,39 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Home -->
   <url>
     <loc>https://amertak.vercel.app/</loc>
-    <lastmod>2026-05-23</lastmod>
-    <priority>1.0</priority>
   </url>
 
-  <!-- Store -->
   <url>
     <loc>https://amertak.vercel.app/store</loc>
-    <lastmod>2026-05-23</lastmod>
-    <priority>0.9</priority>
   </url>
 
-  <!-- Players -->
   <url>
     <loc>https://amertak.vercel.app/players</loc>
-    <lastmod>2026-05-23</lastmod>
-    <priority>0.8</priority>
   </url>
 
-  <!-- Top Kills -->
   <url>
     <loc>https://amertak.vercel.app/topKills</loc>
-    <lastmod>2026-05-23</lastmod>
-    <priority>0.8</priority>
   </url>
 
-  <!-- Top Deaths -->
   <url>
     <loc>https://amertak.vercel.app/topdeaths</loc>
-    <lastmod>2026-05-23</lastmod>
-    <priority>0.7</priority>
   </url>
 
 </urlset>
